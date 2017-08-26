@@ -23,7 +23,7 @@ theme_settings:
   behance:
   bitbucket:
   dribbble:
-  facebook:
+  facebook: "jordan.lagan"
   flickr:
   github: "JordanLagan"
   google_plus:
@@ -35,12 +35,12 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter:
+  twitter: "UnibrosUnite"
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-105379873-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
